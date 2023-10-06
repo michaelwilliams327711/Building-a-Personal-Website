@@ -2,6 +2,12 @@
   width: 25px;
   height: 25px;
 }
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 12px;
+}
 body {
   background-color: turquoise;
   padding: 0;
