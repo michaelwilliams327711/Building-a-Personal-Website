@@ -2,6 +2,14 @@
   width: 25px;
   height: 25px;
 }
+.display-name {
+  font-size: 25px;
+  border-style: dotted dashed solid double;
+}
+.contact-page {
+  display: flex;
+  justify-content: center;
+}
 footer {
   display: flex;
   justify-content: center;
